@@ -56,7 +56,7 @@ const ChartInside = () => {
             }
     }
   return (
-    <div style={{width:'900px'}}>
+    <div style={{width:'100%'}}>
       <Line className="px-4" style={{alignContent:'stretch'}}  data={data}
       options= {options}
        />

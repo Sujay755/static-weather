@@ -19,7 +19,7 @@ const Chart = () => {
         <h6 className="fw-normal rounded-2 fw-bold mt-2 mx-3" style={{backgroundColor:'#f1f1f1',width:"90px",height:'20px',fontSize:'0.8rem'}}>Next days <FontAwesomeIcon icon={faChevronRight}/></h6>
       </div>
     </div>
-    <div className="d-flex justify-content-between" style={{width:'825px',marginLeft:'30px'}}>
+    <div className="d-flex justify-content-between" style={{width:'93%',marginLeft:'30px'}}>
     <div>
         <h6 style={{width:'0.1rem'}}>Now</h6>
         <FontAwesomeIcon style={{width:'0.5rem',paddingLeft:'5px'}} icon={sun}/>
